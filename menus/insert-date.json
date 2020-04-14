@@ -3,7 +3,7 @@
     ".CodeMirror": [
       {
         "label": "Insert date",
-        "command": "insert-date:toggle"
+        "command": "insert-date:run"
       }
     ]
   }

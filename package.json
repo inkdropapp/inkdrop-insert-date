@@ -4,12 +4,12 @@
   "version": "0.1.0",
   "description": "A plugin to quickly insert the current date and time",
   "keywords": [],
-  "repository": "https://github.com/notapianokey/inkdrop-insert-date",
+  "repository": "https://github.com/inkdropapp/inkdrop-insert-date",
   "license": "MIT",
   "engines": {
-    "inkdrop": ">=3.7.3 <4.0.0"
+    "inkdrop": "4.x"
   },
   "dependencies": {
-    "moment": "^2.22.1"
+    "moment": "^2.24.0"
   }
 }
