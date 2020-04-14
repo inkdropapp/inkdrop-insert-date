@@ -49,3 +49,4 @@ Here are some common options you can choose from:
 - `ja`: 2016 年 4 月 22 日 金曜日 05:14
 - `de`: Freitag, 22. April 2016 05:14
 - `fr`: mardi 14 avril 2020 16:34
+- `ko`: 2020년 4월 14일 화요일 오후 4:40
